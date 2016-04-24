@@ -30,3 +30,35 @@ c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 
 c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.csprojResolveAssemblyReference.cache
 c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.dll
 c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.pdb
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\CS496 Assignment 3.dll.config
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\CS496 Assignment 3.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\CS496 Assignment 3.pdb
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\Antlr3.Runtime.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\Newtonsoft.Json.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Net.Http.Formatting.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Helpers.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Http.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Http.WebHost.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Mvc.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Optimization.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Razor.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\WebGrease.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\Newtonsoft.Json.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Net.Http.Formatting.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Helpers.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Http.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Http.WebHost.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Mvc.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Optimization.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.Razor.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\bin\Antlr3.Runtime.pdb
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.csprojResolveAssemblyReference.cache
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.dll
+C:\Users\Bryan\Documents\GitHub\CS-496\Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.pdb
