@@ -1,0 +1,32 @@
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\CS496 Assignment 3.dll.config
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\CS496 Assignment 3.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\CS496 Assignment 3.pdb
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\Antlr3.Runtime.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\Microsoft.Web.Infrastructure.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\Newtonsoft.Json.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Net.Http.Formatting.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Helpers.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Http.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Http.WebHost.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Mvc.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Optimization.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Razor.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.Deployment.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.Razor.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\WebGrease.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\Newtonsoft.Json.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Net.Http.Formatting.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Helpers.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Http.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Http.WebHost.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Mvc.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Optimization.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.Razor.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.Deployment.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\System.Web.WebPages.Razor.xml
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\bin\Antlr3.Runtime.pdb
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.csprojResolveAssemblyReference.cache
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.dll
+c:\users\bryan & georgie\documents\visual studio 2013\Projects\CS496 Assignment 3\CS496 Assignment 3\obj\Debug\CS496 Assignment 3.pdb
